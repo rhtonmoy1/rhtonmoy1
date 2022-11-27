@@ -8,7 +8,7 @@
 <img
   align="right"
   alt="Coding"
-  width="330"
+  width="350"
   src="https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif"
 />
 
