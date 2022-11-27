@@ -91,15 +91,6 @@
 
 
 
-
-  <p>
-    <img
-      align="right"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&"
-      alt="rhtonmoy1"
-    />
-  </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- back End -->
@@ -285,6 +276,13 @@
   
 </p>
 
+<p>
+    <img
+      align="right"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&"
+      alt="rhtonmoy1"
+    />
+  </p>
 
 <p>
   <img
