@@ -1,107 +1,110 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
-<div>
-    <h1 align="center">Hi 👋, I'm Rafiul Hasan Tonmoy</h1>
+
+
+
+
+<style>
+    .grid-container {
+      display: grid;
+      column-gap: auto;
+      grid-template-columns: auto auto ;
+    
+      padding: auto;
+    }
+    
+    .grid-item {
+      background-color: rgba(255, 255, 255, 0.8);
+     
+      padding: auto;
+ 
+    }
+    </style>
+
+<h1 align="center">Hi 👋, I'm Rafiul Hasan Tonmoy</h1>
 <h3 align="center">
   I'm a developer that loves simplifying things. I love breaking down complex
   problems into simple, easy-to-understand solutions.
 </h3>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif"
-/>
 
+<div class="grid-container">
+        
+    <div class="grid-item">
+        - 🔭 I’m currently working on [Artist-Market-Place](http://v-generation.com/artists/index.php) <br>
+        - 🌱 I’m currently learning **SpringBoot** <br>
+        - 👨‍💻 All of my projects are available at [Rafiul Hasan Tonmoy Web](https://rhtonmoy.netlify.app) <br>
+        - 💬 Ask me about **Java,JavaScript,PHP,Laravel,React** <br>
+        - 📫 How to reach me **rhtonmoyhd@gmail.com** <br>
 
-<!-- <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=rhtonmoy1&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rhtonmoy1"
-  />
-</p>
+        <h3 align="left">Connect with me:</h3>
+        <p align="left">
+          <a href="https://twitter.com/rhtonmoyhd" target="blank"
+            ><img
+              align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+              alt="rhtonmoyhd"
+              height="30"
+              width="40"
+          /></a>
+          <a href="https://linkedin.com/in/rh-tonmoy" target="blank"
+            ><img
+              align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+              alt="rh-tonmoy"
+              height="30"
+              width="40"
+          /></a>
+          <a
+            href="https://www.sololearn.com/profile/27592375"
+            target="blank"
+            ><img
+              align="center"
+              src="https://camo.githubusercontent.com/f1ee911be55392f64c85a84ddba0decf4d3d2fa6629fb2d2de860abd9469e810/68747470733a2f2f7777772e736f6c6f6c6561726e2e636f6d2f496d616765732f66617669636f6e2e69636f"
+              alt="profile/27592375"
+              height="30"
+              width="40"
+          /></a>
+          <a href="https://fb.com/rh.tonmoy007" target="blank"
+            ><img
+              align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+              alt="rh.tonmoy007"
+              height="30"
+              width="40"
+          /></a>
+          <a href="https://www.hackerrank.com/rhtonmoy" target="blank"
+            ><img
+              align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+              alt="rhtonmoy"
+              height="30"
+              width="40"
+          /></a>
+          <a href="https://www.leetcode.com/rhtonmoyhd" target="blank"
+            ><img
+              align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+              alt="rhtonmoyhd"
+              height="30"
+              width="40"
+          /></a>
+        </p>
+    </div>
+   
 
-<p align="left">
-  <a href="https://twitter.com/rhtonmoyhd" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/rhtonmoyhd?logo=twitter&style=for-the-badge"
-      alt="rhtonmoyhd"
-  /></a>
-</p> -->
-
-- 🔭 I’m currently working on [Artist-Market-Place](http://v-generation.com/artists/index.php) <br>
-- 🌱 I’m currently learning **SpringBoot** <br>
-- 👨‍💻 All of my projects are available at [Rafiul Hasan Tonmoy Web](https://rhtonmoy.netlify.app) <br>
-- 💬 Ask me about **Java,JavaScript,PHP,Laravel,React** <br>
-- 📫 How to reach me **rhtonmoyhd@gmail.com** <br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/rhtonmoyhd" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="rhtonmoyhd"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/rh-tonmoy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="rh-tonmoy"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.sololearn.com/profile/27592375"
-    target="blank"
-    ><img
-      align="center"
-      src="https://camo.githubusercontent.com/f1ee911be55392f64c85a84ddba0decf4d3d2fa6629fb2d2de860abd9469e810/68747470733a2f2f7777772e736f6c6f6c6561726e2e636f6d2f496d616765732f66617669636f6e2e69636f"
-      alt="profile/27592375"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/rh.tonmoy007" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="rh.tonmoy007"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/rhtonmoy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="rhtonmoy"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/rhtonmoyhd" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="rhtonmoyhd"
-      height="30"
-      width="40"
-  /></a>
-</p>
+    <div class="grid-item">
+        <img
+          align="right"
+          alt="Coding"
+          width="400"
+          src="https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif"
+        />
+    </div>
 
 
 
-
-  <p>
-    <img
-      align="right"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&"
-      alt="rhtonmoy1"
-    />
-  </p>
-
-<h3 align="left">Languages and Tools:</h3>
+    <div class="grid-item">
+        <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- back End -->
 
@@ -271,27 +274,67 @@
       height="40"
     />
   </a>
-  
-
 
 </p>
+        </div>  
+    <div class="grid-item">  <p>
+        <img
+          align="right"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&"
+          alt="rhtonmoy1"
+        />
+      </p></div>
+    <div class="grid-item">
+        <p>
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/top-langs?username=rhtonmoy1&show_icons=true&locale=en&layout=compact"
+              alt="rhtonmoy1"
+            />
+          </p></div>
+    <div class="grid-item"><p>
+        <img
+          align="right"
+          src="https://github-readme-stats.vercel.app/api?username=rhtonmoy1&show_icons=true&locale=en"
+          alt="rhtonmoy1"
+        />
+      </p>
+      </div>  
+   
+  </div>
 
 
 
-<p>
+
+
+
+
+<!-- <p align="left">
   <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api?username=rhtonmoy1&show_icons=true&locale=en"
+    src="https://komarev.com/ghpvc/?username=rhtonmoy1&label=Profile%20views&color=0e75b6&style=flat"
     alt="rhtonmoy1"
   />
 </p>
 
+<p align="left">
+  <a href="https://twitter.com/rhtonmoyhd" target="blank"
+    ><img
+      src="https://img.shields.io/twitter/follow/rhtonmoyhd?logo=twitter&style=for-the-badge"
+      alt="rhtonmoyhd"
+  /></a>
+</p> -->
 
-<p>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=rhtonmoy1&show_icons=true&locale=en&layout=compact"
-      alt="rhtonmoy1"
-    />
-  </p>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
