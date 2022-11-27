@@ -280,7 +280,7 @@
     align="left"
     alt="Coding"
     width="400"
-    src="https://i.gifer.com/6tXM.gif"
+    src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif"
   />
   
 </p>
