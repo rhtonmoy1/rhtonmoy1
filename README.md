@@ -5,12 +5,12 @@
   I'm a developer that loves simplifying things. I love breaking down complex
   problems into simple, easy-to-understand solutions.
 </h3>
-<img
+<!-- <img
   align="right"
   alt="Coding"
   width="400"
   src="https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif"
-/>
+/> -->
 
 
 <!-- <p align="left">
