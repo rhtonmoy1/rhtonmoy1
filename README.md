@@ -11,7 +11,9 @@
   width="400"
   src="https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif"
 />
-<p align="left">
+
+
+<!-- <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=rhtonmoy1&label=Profile%20views&color=0e75b6&style=flat"
     alt="rhtonmoy1"
@@ -24,13 +26,14 @@
       src="https://img.shields.io/twitter/follow/rhtonmoyhd?logo=twitter&style=for-the-badge"
       alt="rhtonmoyhd"
   /></a>
-</p>
+</p> -->
 
 - 🔭 I’m currently working on [Artist-Market-Place](http://v-generation.com/artists/index.php) <br>
 - 🌱 I’m currently learning **SpringBoot** <br>
 - 👨‍💻 All of my projects are available at [https://rhtonmoy.netlify.app/](https://rhtonmoy.netlify.app/) <br>
 - 💬 Ask me about **Java,JavaScript,PHP,Laravel,React** <br>
 - 📫 How to reach me **rhtonmoyhd@gmail.com** <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,12 +54,12 @@
       width="40"
   /></a>
   <a
-    href="https://stackoverflow.com/users/20543152/rafiul-hasan-tonmoy"
+    href="https://www.sololearn.com/profile/27592375"
     target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="20543152/rafiul-hasan-tonmoy"
+      src="https://camo.githubusercontent.com/f1ee911be55392f64c85a84ddba0decf4d3d2fa6629fb2d2de860abd9469e810/68747470733a2f2f7777772e736f6c6f6c6561726e2e636f6d2f496d616765732f66617669636f6e2e69636f"
+      alt="profile/27592375"
       height="30"
       width="40"
   /></a>
@@ -85,6 +88,15 @@
       width="40"
   /></a>
 </p>
+
+
+<p>
+    <img
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=rhtonmoy1&show_icons=true&locale=en&layout=compact"
+      alt="rhtonmoy1"
+    />
+  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -264,26 +276,23 @@
 
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rhtonmoy1&show_icons=true&locale=en&layout=compact"
-    alt="rhtonmoy1"
-  />
-</p>
+
+  
 
 <p>
-  &nbsp;<img
+    <img
+      align="left"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&"
+      alt="rhtonmoy1"
+    />
+  </p>
+
+<p>
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=rhtonmoy1&show_icons=true&locale=en"
     alt="rhtonmoy1"
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&"
-    alt="rhtonmoy1"
-  />
-</p>
+
