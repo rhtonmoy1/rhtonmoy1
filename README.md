@@ -279,7 +279,7 @@
     <img
     align="left"
     alt="Coding"
-    width="400"
+    width="350"
     src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif"
   />
   
