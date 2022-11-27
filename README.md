@@ -30,8 +30,8 @@
 
 - 🔭 I’m currently working on [V-generation](http://v-generation.com/artists/index.php) <br>
 - 🌱 I’m currently learning **SpringBoot** <br>
-- 👨‍💻 All of my projects are available at [Rafiul Hasan Tonmoy Web](https://rhtonmoy.netlify.app) <br>
-- 💬 Ask me about **Java,JavaScript,PHP,Laravel,React** <br>
+- 👨‍💻 All of my projects are available at [rhtonmoy.netlify.app](https://rhtonmoy.netlify.app) <br>
+- 💬 Ask me about **Java, JavaScript, PHP, Laravel, React** <br>
 - 📫 How to reach me **rhtonmoyhd@gmail.com** <br>
 
 
