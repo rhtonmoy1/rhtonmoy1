@@ -5,13 +5,13 @@
   I'm a developer that loves simplifying things. I love breaking down complex
   problems into simple, easy-to-understand solutions.
 </h3>
-<img
+
+<!-- <img
   align="right"
   alt="Coding"
   width="350"
   src="https://thumbs.gfycat.com/KnobbyJoyfulDeermouse-size_restricted.gif"
-/>
-
+/> -->
 
 <!-- <p align="left">
   <img
@@ -89,14 +89,14 @@
   /></a>
 </p>
 
-<p>
+<!-- <p>
     <img
       align="right"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=rhtonmoy1&show_icons=true&locale=en&layout=compact"
       alt="rhtonmoy1"
     />
   </p>
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- back End -->
@@ -272,7 +272,7 @@
 
 </p>
 
-<p>
+<!-- <p>
     <img
     align="left"
     alt="Coding"
@@ -280,7 +280,7 @@
     src="https://blog.penjee.com/wp-content/uploads/2015/03/while-loop-animation-python.gif"
   />
   
-</p>
+</p> -->
 
 <p>
     <img
@@ -290,12 +290,12 @@
     />
   </p>
 
-<p>
+<!-- <p>
   <img
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=rhtonmoy1&show_icons=true&locale=en"
     alt="rhtonmoy1"
   />
 </p>
-
+ -->
 
