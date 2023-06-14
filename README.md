@@ -30,7 +30,6 @@
 
 - 🔭 I’m currently working on [V-generation](http://v-generation.com/v-generation/)<br>
 <!-- - 🌱 I’m currently learning **SpringBoot** <br> -->
-- 👨‍💻 All of my projects are available at [rhtonmoy.netlify.app](https://rhtonmoy.netlify.app) <br>
 - 💬 Ask me about **Java, Spring Boot, PHP, Laravel, JavaScript, React** <br>
 - 📫 How to reach me **rhtonmoyhd@gmail.com** <br>
 
