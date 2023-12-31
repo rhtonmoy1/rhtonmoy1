@@ -78,7 +78,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/rhtonmoyhd" target="blank"
+  <a href="https://www.leetcode.com/rhtonmoy" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
