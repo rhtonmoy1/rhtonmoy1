@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rafiul Hasan Tonmoy</h1>
 <h3 align="center">Senior Software Engineer @ v-Generation Limited | Java Developer specializing in crafting custom ERP, POS, E-commerce, and CMS solutions</h3>
 
-<p align="righ">
-  <a href="https://rhtonmoy.netlify.app" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="Website Logo" width="100" height="100">
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://rhtonmoy.netlify.app" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="rhtonmoyhd" height="30" width="40" /></a>
