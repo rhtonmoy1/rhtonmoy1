@@ -8,6 +8,7 @@
 
 <p align="left">
   <a href="https://rhtonmoy.netlify.app" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="Website Logo" width="100" height="100">
   </a>
 </p>
 
