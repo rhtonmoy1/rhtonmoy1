@@ -8,7 +8,6 @@
 
 <p align="left">
   <a href="https://rhtonmoy.netlify.app" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rhtonmoyhd?logo=twitter&style=for-the-badge" alt="rhtonmoyhd" />
   </a>
 </p>
 
