@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Rafiul Hasan Tonmoy</h1>
-<h3 align="center">Senior Software Engineer @ v-Generation Limited | Java Developer specializing in crafting custom ERP, POS, E-commerce, and CMS solutionsSenior Software Engineer @ v-Generation Limited | Java Developer specializing in crafting custom ERP, POS, E-commerce, and CMS solutions</h3>
+<h3 align="center">Senior Software Engineer @ v-Generation Limited | Java Developer specializing in crafting custom ERP, POS, E-commerce, and CMS solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhtonmoy1&label=Profile%20views&color=0e75b6&style=flat" alt="rhtonmoy1" /> </p>
 
