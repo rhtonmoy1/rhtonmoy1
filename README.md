@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rhtonmoy1.rhtonmoy1" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rafiul+Hasan+Tonmoy!;" />
 </h1>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h2 align="center">I am a passionate Software Engineer from Bangladesh</h2>
 <h3 align="center">"I am currently employed as a Senior Software Engineer at v-Generation Limited, where I specialize in Java development. My expertise lies in designing and implementing custom solutions for ERP, POS, E-commerce, and CMS platforms."</h3>
