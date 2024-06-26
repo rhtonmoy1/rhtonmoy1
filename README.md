@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<h3 align="center">Senior Software Engineer @ v-Generation Limited | Java Developer specializing in crafting custom ERP, POS, E-commerce, and CMS solutions</h3>
 
  </div>
  
