@@ -3,7 +3,12 @@
 </h1>
 
 <h2 align="center">I am a passionate Software Engineer from Bangladesh</h2>
-<h3 align="center">"As a Software Engineer at Apex Holdings Limited, I specialize in Java-based enterprise application development. I design and implement robust, scalable, and customized software solutions across diverse business domains, including ERP (Enterprise Resource Planning), Garment Management Systems (GMS), Sample Management, Agri-Connect ERP, Logistics, HRIS, Accounting, POS, and more. My core focus is on developing efficient and maintainable backend systems that streamline operations, enhance productivity, and drive overall business performance."</h3>
+<div align="justify">
+  <h3>
+    "As a Software Engineer at Apex Holdings Limited, I specialize in Java-based enterprise application development. I design and implement robust, scalable, and customized software solutions across diverse business domains, including ERP (Enterprise Resource Planning), Garment Management Systems (GMS), Sample Management, Agri-Connect ERP, Logistics, HRIS, Accounting, POS, and more. My core focus is on developing efficient and maintainable backend systems that streamline operations, enhance productivity, and drive overall business performance."
+  </h3>
+</div>
+
 
 <br/>
 
