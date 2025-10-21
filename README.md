@@ -58,9 +58,10 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rhtonmoy1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhtonmoy1&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhtonmoy1&theme=tokyonight" height="165" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhtonmoy1&theme=react-dark&bg_color=20232a&hide_border=true" />
