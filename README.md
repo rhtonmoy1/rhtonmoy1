@@ -46,13 +46,14 @@
 ### ⚒️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,php" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,js,jquery,html,css,bootstrap" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br/>
-  <img src="https://skillicons.dev/icons?i=postman,powershell" /><br/>
-  <img src="https://skillicons.dev/icons?i=github,docker,kubernetes" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,php" style="pointer-events: none;" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,js,jquery,html,css,bootstrap" style="pointer-events: none;" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" style="pointer-events: none;" /><br/>
+  <img src="https://skillicons.dev/icons?i=postman,powershell" style="pointer-events: none;" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,docker,kubernetes" style="pointer-events: none;" /><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" style="pointer-events: none;" />
 </div>
+
 
 ---
 
